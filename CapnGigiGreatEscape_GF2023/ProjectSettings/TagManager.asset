@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectables
+  - LvlSections
+  - Wall
+  - Enemy
+  - Event
+  - EnemySpawn
+  - CollectableSpawn
+  - TrapSpawn
+  - Ground
+  - isOnGround_Particles
+  - LiveParent
+  - Pathfinder_Jump
+  - RunnerLedge
+  - CinemachineCam
+  - GroundChunk
+  - PlatformChunk
+  - LevGen
+  - miniMap
+  - ThrowingSword
+  - Dervy
+  - DistanceMarker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platform
+  - 'Player '
+  - Enemy
+  - PlayerHitbox
+  - EnemyHitbox
+  - GroundDetection
+  - Pickup
+  - EnemyHead
+  - PlayerFeet
+  - Runner
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
